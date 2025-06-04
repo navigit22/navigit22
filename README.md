@@ -13,9 +13,6 @@ Big Data| Data Visualization | Machine Learning
 Big Data | Apache Spark | Hadoop 
 ---
 
-### Projects  
-- [AgriIntel: Predictive Analytics for Optimal Crop Growth](https://github.com/navigit22/predictive-crop-growth)  
-  Using machine learning to optimize crop health and growth.
 
 <!---
 navigit22/navigit22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
