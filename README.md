@@ -9,10 +9,14 @@ A data science graduate from Vijayawada, India, passionate about turning data in
 
 ### Skills and Tools  
 Python | SQL | Power BI | Tableau  
-Big Data| Data Visualization | Machine Learning  
+| Data Visualization | Machine Learning |  
 Big Data | Apache Spark | Hadoop 
 ---
 
+## Projects
+
+| 📊 [Predictive Crop Growth](https://github.com/navigit22/predictive-crop-growth) | 💳 [Credit Card Churn Prediction](https://github.com/navigit22/credit-card-churn-prediction) |
+|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 
 <!---
 navigit22/navigit22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
