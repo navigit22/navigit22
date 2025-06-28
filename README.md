@@ -3,7 +3,7 @@ A data science graduate from Vijayawada, India, passionate about turning data in
 
 🌱 I’m currently learning advanced data analysis and predictive modeling techniques.  
 
-📫 How to reach me: jahnavimuvva@gmail.com  
+📫 How to reach me: jahnavimuvva22@gmail.com  
 
 ---
 
